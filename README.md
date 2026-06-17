@@ -9,10 +9,3 @@ CS + Math graduate. I enjoy learning new stuff and using what I learn to build c
 - learning full-stack development
 - playing basketball
 
-## Tech Stack
-
-```text
-Python • C++ • JavaScript
-Java • Haskell • Isabelle
-SQL • Linux • VS Code 
-```
