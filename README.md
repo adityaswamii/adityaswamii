@@ -9,18 +9,6 @@ CS + Math graduate. I enjoy learning new stuff and using what I learn to build c
 - learning full-stack development
 - playing basketball
 
-## Featured Projects
-
-### 📈 TradingView AI Dashboard
-Interactive Streamlit dashboard with TradingView charts and a Gemini-powered chatbot.
-
-**Python • Streamlit • TradingView • Gemini API**
-
-### 🧠 Deep Learning for Computer Vision
-Implementations and experiments following Stanford CS231n and Bishop's *Deep Learning*.
-
-**PyTorch • Jupyter**
-
 ## Tech Stack
 
 ```text
