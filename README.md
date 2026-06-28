@@ -1,6 +1,6 @@
-# Hey, I'm Aditya Swami 👋
+## Hey, I'm Aditya Swami 👋
 
-CS + Math graduate.  
+Fresh CS Math grad.  
 
 I enjoy learning new stuff and using what I learn to build cool technical things that are sometimes useful.  
 
@@ -11,7 +11,7 @@ Open to collaborations.
 - 🤖 Exploring LLMs and agentic AI  
 - 📹 Studying deep learning and computer vision  
 - 📚 Learning full-stack development  
-- 🏀 Playing basketball  
+- 🏀 Playing basketball
 
 ## Contact Me  
 
